@@ -4,7 +4,7 @@ This is STTY.py tool for check if the server is vulnerable to SSTI (server-side 
 
 ## Starting 🚀
 
-__you only need to edit the file to change the url and specify the file with the list of payloads after execute the script with python
+you only need to edit the file to change the url and specify the file with the list of payloads after execute the script with python
 
 
 ### Requirements 📋
