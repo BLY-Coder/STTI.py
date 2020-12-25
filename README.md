@@ -10,8 +10,8 @@ _you only need to edit the file to change the url and specify the file with the 
 ### Requirements 📋
 
 ```
-_Module Requests --> pip install requests
--Module BeautifulSoup --> pip install beautifulsoup4
+Module Requests --> pip install requests
+Module BeautifulSoup --> pip install beautifulsoup4
 ```
 
 ### Download 🔧
